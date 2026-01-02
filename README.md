@@ -1,0 +1,3 @@
+# Electronic Queue Terminal
+
+<p align="center"><img src="./_readme/Diagram.drawio.png" /></p>
